@@ -386,19 +386,3 @@ Human-in-the-loop design is not a single switch, it is a layered system of actio
 The practical starting point for most teams is to build the action manifest first. Classify every action your agent can take by severity and reversibility, assign approval requirements, and define your escalation paths before you write a single line of [orchestration code](https://omnithium.ai/blog/enterprise-ai-agent-orchestration-patterns.html). Everything else, confidence thresholds, calibration pipelines, reviewer UX, builds on top of that classification. Get the manifest wrong and the rest of the system optimizes for the wrong outcome. Get it right and you have a foundation for [expanding agent autonomy safely](https://omnithium.ai/blog/ai-agent-maturity-model.html) and deliberately as your confidence in the system grows.
 
 For teams building production-grade agent systems, [Omnithium](https://omnithium.ai) provides a governance-first platform that enforces action manifests, approval workflows, and calibration tooling out of the box. [Start a free trial](https://omnithium.ai/pricing) and see how it streamlines human-in-the-loop design.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/human-in-the-loop-patterns).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
